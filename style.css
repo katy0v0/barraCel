@@ -87,7 +87,7 @@ header {
 
 .brands img {
     margin: 10px;
-     height: 4em; 
+    height: 4em; 
     width: 10em;
 }
 @media (max-width: 768px) {
