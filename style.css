@@ -87,7 +87,8 @@ header {
 
 .brands img {
     margin: 10px;
-    height: 40px; 
+     height: 4em; 
+    width: 10em;
 }
 @media (max-width: 768px) {
     .imgfondo {
@@ -124,7 +125,6 @@ header {
     }
 
     .brands img {
-        height: 30px; 
         max-width: 100px;
     }
 
